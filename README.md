@@ -25,5 +25,4 @@ program | action | destination .
 For example,
 is read as git I add I
 git add .
-the current directory;
-, where the period represents everything in
+where the period represents everything in the current directory; 
